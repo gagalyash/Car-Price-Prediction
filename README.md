@@ -1,6 +1,5 @@
-# Car-Price-Prediction
+# Car-Price-Prediction Using
 
-## Medical Charges Prediction Using
 - Random Forest 
 - Randomized SearchCV
 
